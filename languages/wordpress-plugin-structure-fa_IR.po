@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordpress plugin structure\n"
+"POT-Creation-Date: 2024-08-20 19:38+0330\n"
+"PO-Revision-Date: 2024-08-20 19:39+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wordpress-plugin-structure.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: includes/admin/class-admin.php:20 includes/admin/class-admin.php:21
+msgid "Wordpress plugin structure"
+msgstr "ساختار پلاگین وردپرس"
+
+#: includes/admin/class-admin.php:33
+msgid "Welcome to the wordpress plugin structure"
+msgstr "به ساختار افزونه وردپرس خوش آمدید"
+
+#: includes/admin/class-admin.php:34
+msgid "This is the management page for the wordpress plugin structure."
+msgstr "این صفحه مدیریت ساختار پلاگین وردپرس است."
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://Weblan3er.com/"
+msgstr "https://Weblan3er.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"Wordpress plugin structure is a complete starter kit for developing "
+"WordPress plugins. This template includes an organized structure that helps "
+"you build scalable and maintainable plugins. The features of this kit "
+"include managing custom post types, support for scheduling tasks (Cron "
+"Jobs), integration with REST API, and translation capabilities. Suitable for "
+"developers looking to quickly and regularly start plugin writing projects."
+msgstr ""
+"ساختار افزونه وردپرس یک کیت شروع کامل برای توسعه افزونه های وردپرس است. این "
+"الگو شامل یک ساختار سازماندهی شده است که به شما کمک می کند پلاگین های مقیاس "
+"پذیر و قابل نگهداری بسازید. از ویژگی های این کیت می توان به مدیریت انواع پست "
+"های سفارشی، پشتیبانی از زمان بندی وظایف (Cron Jobs)، ادغام با REST API و "
+"قابلیت های ترجمه اشاره کرد. مناسب برای توسعه دهندگانی که به دنبال شروع سریع "
+"و منظم پروژه های پلاگین نویسی هستند."
+
+#. Author of the plugin/theme
+msgid "Mahdi Mashkuri"
+msgstr "مهدی مشکوری"
