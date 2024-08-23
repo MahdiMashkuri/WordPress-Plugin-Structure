@@ -1,0 +1,15 @@
+{
+    "name": "mahdi/wordpress-plugin-structure",
+    "autoload": {
+        "psr-4": {
+            "Mahdi\\WordpressPluginStructure\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mahdi Mashkouri",
+            "email": "mehdimashkori1390@gmail.com"
+        }
+    ],
+    "require": {}
+}
